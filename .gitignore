@@ -3,6 +3,7 @@
 __pycache__/
 *.pyc
 .venv/
-data/raw/
+data/raw/*
 data/private/
+!data/raw/foodhub_order.csv
 
